@@ -1,0 +1,20 @@
+This is a snake game.
+
+Compilation:
+    do mode
+    do snake
+
+Launch:
+    start M P    , where M - text mode number, P - page number.
+
+Сontrol:
+    esc - exit
+    space - pause
+    left arrow - left direction
+    right arrow - right direction
+    up arrow - up direction
+    down arrow - down direction
+    a - acceleration
+    d - deceleration
+    w - lengthening
+    s - shortening
